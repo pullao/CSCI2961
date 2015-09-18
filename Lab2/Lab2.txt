@@ -1,0 +1,29 @@
+Four criterea for Open Source License
+1: Freedom to run program however you wish for any purpose
+2: Freedom to study program and change how it works
+	(Open source code is a prerequisite of this)
+3: Freedom to redistribute
+4: Freedom to distribute copies you have modified
+
+
+Why should you choose a license?
+
+
+it is imperative when making a project designed to be "open source" or "free" that you choose a license to go along with it because of how copyright works when no license is present. In a project with no license the default is to
+go to "all rights reserved" meaning people cannot even legally run your software, let alone modify it.
+
+Why shouldn't you use a project that does not have an explicit license
+
+A project without an explicit license defaults to "all rights reserved". Thus by merely using it, you are breaking copyright law as the owner has not technically given you permission to use the project.
+
+Gopher:
+
+From my perspective it seems like Gopher started off strong, then a couple of factors caused it to fall behind the web, and from there bad press and other issues snowballed it into obscurity. From my understanding of the article the two things that really started the process were the social backing the web had (coming from CERN) and their lack of an open systems model. I don't agree it was the sole reason Gopher failed, but it was one of the primary reasons it started to roll downhill.
+
+Why pick licenses?
+
+Apache: Pretty open license that specifically grants patent rights
+
+GPL: Most common, has strong copyleft clauses (Any modifications to this software have to be destributed with the same lisence, keeps derivatives open source)
+
+MIT: The most open license out there, very few restrictions of any kind.

@@ -1,4 +1,4 @@
-###Lab 3 Writeup
+##Lab 3 Writeup
 
 
 Firstly I created a couple of git repositories locally
@@ -7,7 +7,7 @@ Firstly I created a couple of git repositories locally
 ![Inside of Git Introduction](https://github.com/pullao/CSCI2961/blob/master/Lab3/ScreenShots/Screenshot%202015-09-18%2012.19.18.png)
 ![Adding it as a git repository on console](https://github.com/pullao/CSCI2961/blob/master/Lab3/ScreenShots/Screenshot%202015-09-18%2012.20.13.png)
 
-#uploaded earth/mars/jupiter repository (also includes readme file)
+####uploaded earth/mars/jupiter repository (also includes readme file)
 [link to repository](https://github.com/pullao/exercise1)
 Examining the branching with gitk
 ![gitk](https://raw.githubusercontent.com/pullao/CSCI2961/master/Lab3/ScreenShots/Screenshot%202015-09-18%2013.43.50.png)
@@ -17,7 +17,7 @@ adding mars branch
 Modified python file to say hello jupiter
 ![jupiter python file](https://github.com/pullao/CSCI2961/blob/master/Lab3/ScreenShots/Screenshot%202015-09-18%2013.03.33.png)
 
-## Spoon knife
+#### Spoon knife
 
 spoon knife forked
 [forked spoon knife repository](https://github.com/pullao/Spoon-Knife)
@@ -28,7 +28,7 @@ Four forking question done (didn't screenshot first question)
 ![q4](https://github.com/pullao/CSCI2961/blob/master/Lab3/ScreenShots/Screenshot%202015-09-18%2013.44.05.png)
 
 
-## Pull request
+#### Pull request
 
 Made a pull request w/ my name in it
 ![pullrequest](https://github.com/pullao/CSCI2961/blob/master/Lab3/ScreenShots/Screenshot%202015-09-18%2013.47.56.png)
